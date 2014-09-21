@@ -1,0 +1,6 @@
+Content\WhitePixel.xnb
+Content\Wall.xnb
+Content\Paddle.xnb
+Content\Title.xnb
+Content\Text.xnb
+Content\InstructionsMenu.xnb

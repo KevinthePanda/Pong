@@ -1,0 +1,61 @@
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Content\MainMenu.xnb
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Content\WhitePixel.xnb
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Content\Paddle.xnb
+C:\Documents and Settings\65895740\My Documents\ICS3U\CPT\Pong\Pong\Pong\bin\x86\Debug\Content\Wall.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\MainMenu.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Title.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\SettingsMenu.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\PauseMenu.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\InstructionsMenu.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Exit.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\WhitePixel.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Paddle.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Wall.xnb
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+E:\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+E:\Pong\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pong\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+E:\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Title.xnb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\InstructionsMenu.xnb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\WhitePixel.xnb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Paddle.xnb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Wall.xnb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin\Documents\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Kevin\Documents\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Kevin\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Text.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\WhitePixel.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\Wall.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\Paddle.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\Title.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\Text.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Content\InstructionsMenu.xnb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+E:\Computers\Grade 11 Computers\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\WhitePixel.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Wall.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Paddle.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Title.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\Text.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Content\InstructionsMenu.xnb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Kevin Quicho\Documents\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
